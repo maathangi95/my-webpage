@@ -295,6 +295,10 @@ li {
     width: 100%;
 }
 
+#hiking-image {
+    width: 50%;
+}
+
 .project-title {
     font-family: Poppins;
     font-size: 18px;
